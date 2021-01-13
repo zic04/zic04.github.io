@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository:  zic04/zic04.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Brett Harris
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: https://zic04.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,7 +33,7 @@ youtube_username: globalmtb
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://zic04.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
